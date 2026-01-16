@@ -1,0 +1,1 @@
+# Stub for video compilation

@@ -1,0 +1,1 @@
+# Stub for C2PA embedding
