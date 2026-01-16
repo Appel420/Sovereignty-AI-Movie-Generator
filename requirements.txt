@@ -1,0 +1,8 @@
+torch
+torchaudio
+tortoise-tts-fast
+opencv-python
+moviepy
+Pillow
+numpy
+blake3
